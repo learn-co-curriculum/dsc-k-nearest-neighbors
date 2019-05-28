@@ -26,7 +26,7 @@ All the magic happens during the 'predict' step. During this step, KNN takes a p
 
 In the following animation, K=3.
 
-<img src='knn.gif'>
+<img src='images/knn.gif'>
 
 ## Distance Metrics
 
