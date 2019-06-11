@@ -34,7 +34,7 @@ When using KNN, you can use **_Manhattan_**, **_Euclidean_**, **_Minkowski Dista
 
 ## Evaluating Model Performance
 
-How to evaluate the model performance depends on whether you're using the model for a classification or regression task. KNN can be used for regression (by averaging the target scores from each of the K-nearest neighbors), as well as for both binary and mutlicategorical classification tasks. 
+How to evaluate the model performance depends on whether you're using the model for a classification or regression task. KNN can be used for regression (by averaging the target scores from each of the K-nearest neighbors), as well as for both binary and multicategorical classification tasks. 
 
 Evaluating classification performance for KNN works the same as evaluating performance for any other classification algorithm--you just need a set of predictions, and the corresponding ground-truth labels for each of the points you made a prediction on. You can then compute evaluation metrics such as **_Precision, Recall, Accuracy,_** and **_F1-Score_**. 
 
