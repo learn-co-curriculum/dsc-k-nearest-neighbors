@@ -28,6 +28,8 @@ In the following animation, K=3.
 
 <img src='images/knn.gif'>
 
+[gif source](https://gfycat.com/wildsorrowfulchevrotain)
+
 ## Distance Metrics
 
 When using KNN, you can use **_Manhattan_**, **_Euclidean_**, **_Minkowski Distance_**, or any other distance metric. Choosing an appropriate distance metric is essential and will depend on the context of the problem at hand.
@@ -40,3 +42,8 @@ Evaluating classification performance for KNN works the same as evaluating perfo
 
 ## Summary
 Great! In the next lab, you'll implement KNN using Python!
+
+
+```python
+
+```
